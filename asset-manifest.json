@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.a93d065e.css",
+    "main.js": "/Portfolio-website/static/js/main.f9cf50dc.js",
+    "static/media/bikebuddy.png": "/Portfolio-website/static/media/bikebuddy.383a1c72539e2f624a16.png",
+    "static/media/news.png": "/Portfolio-website/static/media/news.51439179fb611dbbc400.png",
+    "static/media/me.jpg": "/Portfolio-website/static/media/me.be90edae9e82f126da7c.jpg",
+    "static/media/4ward.png": "/Portfolio-website/static/media/4ward.0d57d19090272084aa94.png",
+    "static/media/MohitBhardwaj_Resume.pdf": "/Portfolio-website/static/media/MohitBhardwaj_Resume.5033f1612fd6a772a6e6.pdf",
+    "static/media/google.png": "/Portfolio-website/static/media/google.15339b60ad3d68e8697f.png",
+    "static/media/todo.png": "/Portfolio-website/static/media/todo.5bff4a5396a3b8a42ced.png",
+    "static/media/math.png": "/Portfolio-website/static/media/math.dda088e8d9f35030227c.png",
+    "index.html": "/Portfolio-website/index.html",
+    "main.a93d065e.css.map": "/Portfolio-website/static/css/main.a93d065e.css.map",
+    "main.f9cf50dc.js.map": "/Portfolio-website/static/js/main.f9cf50dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93d065e.css",
+    "static/js/main.f9cf50dc.js"
+  ]
+}
